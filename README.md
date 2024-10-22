@@ -11,3 +11,4 @@ It offers multiple features --
 - Final bill preview
 
 
+Tech Stack - `python`,`Fast2SMS` for SMS , `tkinter` for GUI ,  , `openpyxl & pandas` to work with Excel
